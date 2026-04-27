@@ -1,0 +1,15 @@
+{
+    "activeNewsData": [
+      {
+        "newsTitle": "Welcome To Fan Convention",
+        "newsFileURL": "https://raw.githubusercontent.com/MJMCWAI/FCNews/refs/heads/master/News/Welcome",
+        "newsImageURL": ""
+      }
+    ],
+    "updateInfoData": [
+      {
+        "updateType": "GeneralPublic",
+        "activeUpdateVersion": "0.0.1"
+      }
+    ]
+  }
